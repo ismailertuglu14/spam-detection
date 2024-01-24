@@ -16,8 +16,6 @@ Projenin içindeki `train_test_split` fonksiyonunda kullanılan `test_size` para
     best_logreg_model = LogisticRegression(C=grid_search.best_params_['C'])
     best_logreg_model.fit(X_train_features, Y_train)
     ```
-
-    - Eğitim Seti Doğruluğu: 1.0
     - Test Seti Doğruluğu: 0.9820627802690582
 <br/><br/>
 - **MSE ve RMSE sonuçları:**
