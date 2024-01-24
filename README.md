@@ -1,3 +1,5 @@
+## Veri setini aldığım kaynak: [Kaggle: FAISAL QURESHI](https://www.kaggle.com/code/mfaisalqureshi/email-spam-detection-98-accuracy/input)
+
 ### Test Size Değişikliği
 
 Projenin içindeki `train_test_split` fonksiyonunda kullanılan `test_size` parametresi değiştirilerek modelin test seti üzerindeki performansı değerlendirilebilir.
@@ -24,4 +26,3 @@ Projenin içindeki `train_test_split` fonksiyonunda kullanılan `test_size` para
     Mean Squared Error: 0.017937219730941704
     Root Mean Squared Error: 0.133929906036485
     ```
-    
