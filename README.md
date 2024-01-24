@@ -19,3 +19,11 @@ Projenin içindeki `train_test_split` fonksiyonunda kullanılan `test_size` para
 
     - Eğitim Seti Doğruluğu: 1.0
     - Test Seti Doğruluğu: 0.9820627802690582
+<br/><br/>
+- **MSE ve RMSE sonuçları:**
+
+     ```python
+    Mean Squared Error: 0.017937219730941704
+    Root Mean Squared Error: 0.133929906036485
+    ```
+    
